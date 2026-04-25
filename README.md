@@ -47,8 +47,6 @@ Query 3GPP technical specifications, KPI threshold tables, and NOC runbooks usin
 
 ---
 
----
-
 ## 🗂️ Project Structure
 
 ```
